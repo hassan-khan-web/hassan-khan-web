@@ -13,7 +13,7 @@
 
 <br>
 
-### ▍ About
+## ▍ About
 
 I'm a backend developer with a strong interest in building scalable software, AI-powered applications, and distributed systems. I enjoy turning complex ideas into practical solutions by combining modern backend technologies with intelligent automation. Lately, I've been focused on exploring event-driven architectures, knowledge graphs, and the engineering behind reliable AI systems.
 
@@ -23,7 +23,7 @@ I'm a backend developer with a strong interest in building scalable software, AI
 
 <br>
 
-### ▍ Tech Stack
+## ▍ Tech Stack
 
 **Languages**
 > Python • TypeScript • Javascript • Go • HTML • CSS
@@ -49,7 +49,7 @@ I'm a backend developer with a strong interest in building scalable software, AI
 
 <br>
 
-### ▍ Featured Projects
+## ▍ Featured Projects
 
 <table>
   <tr>
@@ -96,7 +96,7 @@ I'm a backend developer with a strong interest in building scalable software, AI
 
 <br>
 
-### ▍ GitHub Analytics
+## ▍ GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-khan-web&theme=transparent&hide_border=true&title_color=888888&text_color=888888&icon_color=888888&sideNums=888888&sideLabels=888888&ring=888888&fire=888888&currStreakLabel=888888&currStreakNum=888888&dates=888888" alt="GitHub Streak" />
