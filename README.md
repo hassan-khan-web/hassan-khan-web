@@ -1,17 +1,9 @@
 <div align="center">
 
-<img src="./typing-name.svg" alt="HASSAN KHAN" />
-
-<img src="./marquee.svg" alt="Backend Developer • AI/LLM Enthusiast • System Design" />
-
-*Building intelligent backend systems which are AI-driven, event-driven architecture, and distributed systems.*
+<img src="./aurora-banner.svg?v=6" alt="Aurora Banner" />
 
 <br>
 </div>
-
----
-
-<br>
 
 ## ▍ About
 
