@@ -2,7 +2,7 @@
 
 # H A S S A N &nbsp; K H A N
 
-<marquee direction="left" scrollamount="6"><b>Backend Developer &nbsp;•&nbsp; AI/LLM Enthusiast &nbsp;•&nbsp; System Design</b></marquee>
+<img src="./marquee.svg" alt="Backend Developer • AI/LLM Enthusiast • System Design" />
 
 *Building intelligent backend systems which are AI-driven, event-driven architecture, and distributed systems.*
 
