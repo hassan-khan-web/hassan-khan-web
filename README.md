@@ -112,7 +112,7 @@ I'm a backend developer with a strong interest in building scalable software, AI
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohammed-abul-hassan-khan-50687a270/">
-    <img src="./linkedin-btn.svg" alt="LinkedIn" />
+    <img src="./linkedin-btn.svg?v=2" alt="LinkedIn" />
   </a>
   <br><br>
   <sup><code>// SYSTEM_ONLINE</code></sup>
