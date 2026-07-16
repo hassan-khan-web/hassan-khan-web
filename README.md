@@ -1,10 +1,10 @@
 <div align="center">
 
-# H A S S A N &nbsp; K H A N
+# $\color{#00ff41}{\text{H A S S A N \ \ K H A N}}$
 
-<marquee direction="left" scrollamount="6"><b>Backend Developer &nbsp;•&nbsp; AI/LLM Enthusiast &nbsp;•&nbsp; System Design</b></marquee>
+<marquee direction="left" scrollamount="6"><b>$\color{#00ff41}{\text{Backend Developer • AI/LLM Enthusiast • System Design}}$</b></marquee>
 
-*Building intelligent backend systems which are AI-driven, event-driven architecture, and distributed systems.*
+$\color{#00ff41}{\text{Building intelligent backend systems which are AI-driven, event-driven architecture, and distributed systems.}}$
 
 <br>
 </div>
@@ -13,7 +13,7 @@
 
 <br>
 
-### ▍ About
+### $\color{#00ff41}{\text{▍ About}}$
 
 I'm a backend developer with a strong interest in building scalable software, AI-powered applications, and distributed systems. I enjoy turning complex ideas into practical solutions by combining modern backend technologies with intelligent automation. Lately, I've been focused on exploring event-driven architectures, knowledge graphs, and the engineering behind reliable AI systems.
 
@@ -23,25 +23,25 @@ I'm a backend developer with a strong interest in building scalable software, AI
 
 <br>
 
-### ▍ Tech Stack
+### $\color{#00ff41}{\text{▍ Tech Stack}}$
 
-**Languages**
-> Python • TypeScript • Go • HTML • CSS
+**$\color{#00ff41}{\text{Languages}}$**
+> $\color{#00ff41}{\text{Python • TypeScript • Go • HTML • CSS}}$
 
-**Backend**
-> FastAPI • Node.js • Express.js • REST APIs • WebSockets
+**$\color{#00ff41}{\text{Backend}}$**
+> $\color{#00ff41}{\text{FastAPI • Node.js • Express.js • REST APIs • WebSockets}}$
 
-**AI / LLM**
-> LangChain • LangGraph • OpenAI API • Gemini API • Ollama • RAG • Prompt Engineering
+**$\color{#00ff41}{\text{AI / LLM}}$**
+> $\color{#00ff41}{\text{LangChain • LangGraph • OpenAI API • Gemini API • Ollama • RAG • Prompt Engineering}}$
 
-**Databases**
-> PostgreSQL • Neo4j • Redis • MongoDB • SQLite
+**$\color{#00ff41}{\text{Databases}}$**
+> $\color{#00ff41}{\text{PostgreSQL • Neo4j • Redis • MongoDB • SQLite}}$
 
-**DevOps & Infrastructure**
-> Docker • Docker Compose • Nginx • Linux • Git • GitHub
+**$\color{#00ff41}{\text{DevOps \& Infrastructure}}$**
+> $\color{#00ff41}{\text{Docker • Docker Compose • Nginx • Linux • Git • GitHub}}$
 
-**Monitoring & Observability**
-> Prometheus • Grafana
+**$\color{#00ff41}{\text{Monitoring \& Observability}}$**
+> $\color{#00ff41}{\text{Prometheus • Grafana}}$
 
 <br>
 
@@ -49,43 +49,43 @@ I'm a backend developer with a strong interest in building scalable software, AI
 
 <br>
 
-### ▍ Featured Projects
+### $\color{#00ff41}{\text{▍ Featured Projects}}$
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>Flux</b><br>
-      <sub><i>AI-Powered Knowledge Acquisition Engine</i></sub>
+      <b>$\color{#00ff41}{\text{Flux}}$</b><br>
+      <sub><i>$\color{#00ff41}{\text{AI-Powered Knowledge Acquisition Engine}}$</i></sub>
       <br><br>
       A model-agnostic backend service that transforms raw web data into clean, structured, AI-ready knowledge for RAG pipelines and LLM applications using an asynchronous, distributed architecture.
       <br><br>
-      <sup><code>FastAPI</code> <code>Python</code> <code>PostgreSQL</code> <code>Redis</code> <code>Celery</code> <code>Docker</code> <code>Prometheus</code> <code>Grafana</code></sup>
+      <sup>$\color{#00ff41}{\text{[ FastAPI ]}}$ $\color{#00ff41}{\text{[ Python ]}}$ $\color{#00ff41}{\text{[ PostgreSQL ]}}$ $\color{#00ff41}{\text{[ Redis ]}}$ $\color{#00ff41}{\text{[ Celery ]}}$ $\color{#00ff41}{\text{[ Docker ]}}$ $\color{#00ff41}{\text{[ Prometheus ]}}$ $\color{#00ff41}{\text{[ Grafana ]}}$</sup>
     </td>
     <td width="50%" valign="top">
-      <b>ArchonAI</b><br>
-      <sub><i>AI Project Intelligence Platform</i></sub>
+      <b>$\color{#00ff41}{\text{ArchonAI}}$</b><br>
+      <sub><i>$\color{#00ff41}{\text{AI Project Intelligence Platform}}$</i></sub>
       <br><br>
       An AI-powered platform that analyzes software repositories to evaluate architecture, code quality, security, and production readiness while providing actionable engineering recommendations.
       <br><br>
-      <sup><code>FastAPI</code> <code>Next.js</code> <code>PostgreSQL</code> <code>Redis</code> <code>Docker</code> <code>LLMs</code></sup>
+      <sup>$\color{#00ff41}{\text{[ FastAPI ]}}$ $\color{#00ff41}{\text{[ Next.js ]}}$ $\color{#00ff41}{\text{[ PostgreSQL ]}}$ $\color{#00ff41}{\text{[ Redis ]}}$ $\color{#00ff41}{\text{[ Docker ]}}$ $\color{#00ff41}{\text{[ LLMs ]}}$</sup>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>CoreX++</b><br>
-      <sub><i>Autonomous AI Coding Agent</i></sub>
+      <b>$\color{#00ff41}{\text{CoreX++}}$</b><br>
+      <sub><i>$\color{#00ff41}{\text{Autonomous AI Coding Agent}}$</i></sub>
       <br><br>
       A local-first, model-agnostic coding assistant that automates software development workflows through intelligent code analysis, dependency mapping, and safe execution within a sandboxed environment.
       <br><br>
-      <sup><code>Python</code> <code>Ollama</code> <code>OpenAI</code> <code>Groq</code> <code>Docker</code> <code>CLI</code></sup>
+      <sup>$\color{#00ff41}{\text{[ Python ]}}$ $\color{#00ff41}{\text{[ Ollama ]}}$ $\color{#00ff41}{\text{[ OpenAI ]}}$ $\color{#00ff41}{\text{[ Groq ]}}$ $\color{#00ff41}{\text{[ Docker ]}}$ $\color{#00ff41}{\text{[ CLI ]}}$</sup>
     </td>
     <td width="50%" valign="top">
-      <b>ScholarForge</b><br>
-      <sub><i>AI Research & Report Generation Platform</i></sub>
+      <b>$\color{#00ff41}{\text{ScholarForge}}$</b><br>
+      <sub><i>$\color{#00ff41}{\text{AI Research \& Report Generation Platform}}$</i></sub>
       <br><br>
       A full-stack research platform that combines AI, live web search, and document analysis to generate structured reports and support interactive research workflows.
       <br><br>
-      <sup><code>FastAPI</code> <code>PostgreSQL</code> <code>Redis</code> <code>Celery</code> <code>Docker</code> <code>OpenRouter</code></sup>
+      <sup>$\color{#00ff41}{\text{[ FastAPI ]}}$ $\color{#00ff41}{\text{[ PostgreSQL ]}}$ $\color{#00ff41}{\text{[ Redis ]}}$ $\color{#00ff41}{\text{[ Celery ]}}$ $\color{#00ff41}{\text{[ Docker ]}}$ $\color{#00ff41}{\text{[ OpenRouter ]}}$</sup>
     </td>
   </tr>
 </table>
@@ -96,7 +96,7 @@ I'm a backend developer with a strong interest in building scalable software, AI
 
 <br>
 
-### ▍ GitHub Analytics
+### $\color{#00ff41}{\text{▍ GitHub Analytics}}$
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hassan-khan-web&show_icons=true&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=00ff41&bg_color=000000" alt="GitHub Stats" width="45%" />
@@ -116,5 +116,5 @@ I'm a backend developer with a strong interest in building scalable software, AI
     <img src="./linkedin-btn.svg" alt="LinkedIn" />
   </a>
   <br><br>
-  <sup><code>// SYSTEM_ONLINE</code></sup>
+  <sup>$\color{#00ff41}{\text{// SYSTEM\_ONLINE}}$</sup>
 </div>
