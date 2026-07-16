@@ -99,10 +99,10 @@ I'm a backend developer with a strong interest in building scalable software, AI
 ### ▍ GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassan-khan-web&show_icons=true&theme=transparent&hide_border=true&title_color=888888&icon_color=888888&text_color=888888&bg_color=00000000" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-khan-web&layout=compact&theme=transparent&hide_border=true&title_color=888888&text_color=888888&bg_color=00000000" alt="Top Languages" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hassan-khan-web&show_icons=true&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=00ff41&bg_color=000000" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-khan-web&layout=compact&hide_border=true&title_color=00ff41&text_color=00ff41&bg_color=000000" alt="Top Languages" width="35%" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-khan-web&theme=transparent&hide_border=true&title_color=888888&text_color=888888&icon_color=888888&sideNums=888888&sideLabels=888888&ring=888888&fire=888888&currStreakLabel=888888&currStreakNum=888888&dates=888888" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-khan-web&hide_border=true&title_color=00ff41&text_color=00ff41&icon_color=00ff41&sideNums=00ff41&sideLabels=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&currStreakNum=00ff41&dates=00ff41&background=000000" alt="GitHub Streak" />
 </div>
 
 <br>
