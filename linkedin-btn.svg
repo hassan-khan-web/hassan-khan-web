@@ -5,41 +5,33 @@
       font-size: 14px;
       font-weight: 600;
       fill: #888888;
-      cursor: pointer;
     }
     
-    .frame { opacity: 0; }
-    .default { opacity: 1; }
+    @keyframes f0Anim { 0%, 1.99% { opacity: 1; } 2%, 100% { opacity: 0; } }
+    @keyframes f1Anim { 0%, 1.99% { opacity: 0; } 2.0%, 3.99% { opacity: 1; } 4.0%, 100% { opacity: 0; } }
+    @keyframes f2Anim { 0%, 3.99% { opacity: 0; } 4.0%, 5.99% { opacity: 1; } 6.0%, 100% { opacity: 0; } }
+    @keyframes f3Anim { 0%, 5.99% { opacity: 0; } 6.0%, 7.99% { opacity: 1; } 8.0%, 100% { opacity: 0; } }
+    @keyframes f4Anim { 0%, 7.99% { opacity: 0; } 8.0%, 9.99% { opacity: 1; } 10.0%, 100% { opacity: 0; } }
+    @keyframes f5Anim { 0%, 9.99% { opacity: 0; } 10.0%, 11.99% { opacity: 1; } 12.0%, 100% { opacity: 0; } }
+    @keyframes f6Anim { 0%, 11.99% { opacity: 0; } 12.0%, 13.99% { opacity: 1; } 14.0%, 100% { opacity: 0; } }
+    @keyframes f7Anim { 0%, 13.99% { opacity: 0; } 14.0%, 15.99% { opacity: 1; } 16.0%, 100% { opacity: 0; } }
+    @keyframes defAnim { 0%, 15.99% { opacity: 0; } 16.0%, 100% { opacity: 1; } }
+
+    /* Runs a scramble every 4 seconds */
+    .f0 { animation: f0Anim 4s infinite; opacity: 0; }
+    .f1 { animation: f1Anim 4s infinite; opacity: 0; }
+    .f2 { animation: f2Anim 4s infinite; opacity: 0; }
+    .f3 { animation: f3Anim 4s infinite; opacity: 0; }
+    .f4 { animation: f4Anim 4s infinite; opacity: 0; }
+    .f5 { animation: f5Anim 4s infinite; opacity: 0; }
+    .f6 { animation: f6Anim 4s infinite; opacity: 0; }
+    .f7 { animation: f7Anim 4s infinite; opacity: 0; }
+    .default { animation: defAnim 4s infinite; opacity: 1; }
     
-    /* On hover, hide default immediately */
-    .btn:hover .default { opacity: 0; }
-    
-    /* Play each frame sequentially instantly on hover */
-    .btn:hover .f0 { animation: flash 0.05s 0.00s forwards; }
-    .btn:hover .f1 { animation: flash 0.05s 0.05s forwards; }
-    .btn:hover .f2 { animation: flash 0.05s 0.10s forwards; }
-    .btn:hover .f3 { animation: flash 0.05s 0.15s forwards; }
-    .btn:hover .f4 { animation: flash 0.05s 0.20s forwards; }
-    .btn:hover .f5 { animation: flash 0.05s 0.25s forwards; }
-    .btn:hover .f6 { animation: flash 0.05s 0.30s forwards; }
-    .btn:hover .f7 { animation: flash 0.05s 0.35s forwards; }
-    .btn:hover .f8 { animation: stay 10000s 0.40s forwards; }
-    
-    @keyframes flash {
-      0%, 99% { opacity: 1; }
-      100% { opacity: 0; }
-    }
-    
-    @keyframes stay {
-      0%, 100% { opacity: 1; }
-    }
-    
-    /* Scanner / Sweep gradient */
-    .sweep { opacity: 0; pointer-events: none; }
-    
-    .btn:hover .sweep {
-      opacity: 1;
+    /* Scanner sweeps back and forth continuously forever */
+    .sweep {
       animation: sweepAnim 1s linear infinite alternate;
+      opacity: 1;
     }
     
     @keyframes sweepAnim {
@@ -48,7 +40,7 @@
     }
   </style>
 
-  <g class="btn" pointer-events="all">
+  <g class="btn">
     <clipPath id="btn-clip">
       <rect x="1" y="1" width="108" height="32" rx="4" />
     </clipPath>
@@ -64,20 +56,19 @@
       <stop offset="60%" stop-color="#888888" stop-opacity="0.1" />
       <stop offset="100%" stop-color="#888888" stop-opacity="0" />
     </linearGradient>
-    <rect x="1" y="1" width="108" height="32" fill="url(#sweepGrad)" clip-path="url(#btn-clip)" class="sweep" />
+    <rect x="1" y="1" width="108" height="32" fill="url(#sweepGrad)" clip-path="url(#btn-clip)" class="sweep" pointer-events="none" />
 
     <!-- Text -->
     <g transform="translate(55, 22)" text-anchor="middle">
+      <text class="f0">!@#$%^&amp;*</text>
+      <text class="f1">L@#$%^&amp;*</text>
+      <text class="f2">Li;?%^&amp;*</text>
+      <text class="f3">Lin$|#&amp;*</text>
+      <text class="f4">Link@?&amp;!</text>
+      <text class="f5">Linke&gt;&lt;|</text>
+      <text class="f6">Linked:#</text>
+      <text class="f7">LinkedI!</text>
       <text class="default">LinkedIn</text>
-      <text class="frame f0">!@#$%^&amp;*</text>
-      <text class="frame f1">L@#$%^&amp;*</text>
-      <text class="frame f2">Li;?%^&amp;*</text>
-      <text class="frame f3">Lin$|#&amp;*</text>
-      <text class="frame f4">Link@?&amp;!</text>
-      <text class="frame f5">Linke&gt;&lt;|</text>
-      <text class="frame f6">Linked:#</text>
-      <text class="frame f7">LinkedI!</text>
-      <text class="frame f8">LinkedIn</text>
     </g>
   </g>
 </svg>
