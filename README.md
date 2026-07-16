@@ -1,6 +1,6 @@
 <div align="center">
 
-# H A S S A N &nbsp; K H A N
+<img src="./typing-name.svg" alt="HASSAN KHAN" />
 
 <img src="./marquee.svg" alt="Backend Developer • AI/LLM Enthusiast • System Design" />
 

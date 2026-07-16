@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 50" width="500" height="50">
+  <style>
+    .text {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 32px;
+      font-weight: 700;
+      fill: #24292f;
+      letter-spacing: 2px;
+    }
+    @media (prefers-color-scheme: dark) { .text { fill: #c9d1d9; } }
+    
+    .cursor {
+      animation: cursorMove 6s steps(11, end) infinite, blink 0.8s infinite;
+    }
+    @keyframes blink { 50% { opacity: 0; } }
+    
+    .mask-rect {
+      animation: maskMove 6s steps(11, end) infinite;
+    }
+    
+    @keyframes maskMove {
+      0%, 10% { width: 0; }
+      40%, 80% { width: 234px; }
+      90%, 100% { width: 0; }
+    }
+    
+    @keyframes cursorMove {
+      0%, 10% { transform: translateX(0); }
+      40%, 80% { transform: translateX(234px); }
+      90%, 100% { transform: translateX(0); }
+    }
+  </style>
+
+  <g transform="translate(133, 35)">
+    <clipPath id="typing-clip">
+      <rect x="0" y="-35" height="50" class="mask-rect" />
+    </clipPath>
+    
+    <text x="0" y="0" class="text" clip-path="url(#typing-clip)">HASSAN KHAN</text>
+    <text x="0" y="0" class="text cursor">_</text>
+  </g>
+</svg>
