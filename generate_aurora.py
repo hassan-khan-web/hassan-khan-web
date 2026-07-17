@@ -92,7 +92,7 @@ svg.append('</g>')
 # Scrolling Marquee
 svg.append('<g transform="translate(100, 180)" clip-path="url(#marquee-clip)">')
 svg.append('  <text y="0" class="marquee-text">')
-svg.append('    Backend Developer  •  AI/LLM Enthusiast  •  System Design')
+svg.append('    Backend Developer  •  AI/LLM  •  AI Product Developer/Engineer  •  System Design')
 svg.append('    <animate attributeName="x" from="600" to="-600" dur="12s" repeatCount="indefinite" />')
 svg.append('  </text>')
 svg.append('</g>')

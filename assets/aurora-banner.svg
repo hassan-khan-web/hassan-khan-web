@@ -964,7 +964,7 @@
 </g>
 <g transform="translate(100, 180)" clip-path="url(#marquee-clip)">
   <text y="0" class="marquee-text">
-    Backend Developer  •  AI/LLM Enthusiast  •  System Design
+    Backend Developer  •  AI/LLM  •  AI Product Developer/Engineer  •  System Design
     <animate attributeName="x" from="600" to="-600" dur="12s" repeatCount="indefinite" />
   </text>
 </g>
