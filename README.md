@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="./aurora-banner.svg?v=6" alt="Aurora Banner" />
-
+<img src="./assets/aurora-banner.svg?v=6" alt="Aurora Banner" />
 <br>
 </div>
 
@@ -101,11 +99,13 @@ I'm a backend developer with a strong interest in building scalable software, AI
 ---
 
 <br>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/mohammed-abul-hassan-khan-50687a270/">
-    <img src="./linkedin-btn.svg?v=3" alt="LinkedIn" />
+    <img src="./assets/linkedin-btn.svg?v=3" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:thiz.hassankhan@gmail.com">
+    <img src="./assets/mail-btn.svg?v=1" alt="Email" />
   </a>
   <br><br>
-  <sup><code>// SYSTEM_ONLINE</code></sup>
 </div>

@@ -105,5 +105,5 @@ svg.append('</g>')
 
 svg.append('</svg>')
 
-with open('aurora-banner.svg', 'w') as f:
+with open('assets/aurora-banner.svg', 'w') as f:
     f.write('\n'.join(svg))
